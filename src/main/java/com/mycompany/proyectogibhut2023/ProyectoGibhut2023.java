@@ -13,5 +13,7 @@ public class ProyectoGibhut2023 {
 
     public static void main(String[] args) {
         System.out.println("Hello Blas!");
+        System.out.println("Bye Blas!");
+        System.out.println("Bye!");
     }
 }
